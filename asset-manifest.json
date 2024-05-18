@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/devgenius-react-app/static/css/main.baab203a.css",
+    "main.js": "/devgenius-react-app/static/js/main.daadbbf0.js",
+    "index.html": "/devgenius-react-app/index.html",
+    "main.baab203a.css.map": "/devgenius-react-app/static/css/main.baab203a.css.map",
+    "main.daadbbf0.js.map": "/devgenius-react-app/static/js/main.daadbbf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baab203a.css",
+    "static/js/main.daadbbf0.js"
+  ]
+}
