@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "name": "Number guessing game",
+    "description": "A simple game where the player guesses a random number within a given range.",
+    "steps": ["Generate a random number within a specified range.", "Prompt the player to guess the number.", "Provide feedback on whether the guess is too high or too low.", "Repeat until the player guesses the correct number."],
+    "difficulty": "beginner",
+    "languages": ["Python", "Java", "Cplusplus"]
+  },
+  {
+    "id": 2,
+    "name": "Word guessing game",
+    "description": "A game in which the player guesses a hidden word or phrase.",
+    "steps": ["Choose a random word or phrase as the target.", "Display placeholders for each letter in the word.", "Allow the player to guess letters.", "Reveal correct guesses and track incorrect guesses.", "End the game when the word is guessed or after a certain number of incorrect guesses."],
+    "difficulty": "beginner",
+    "languages": ["Python", "JavaScript", "Csharp"]
+  },
+  {
+    "id": 3,
+    "name": "Create Acronyms",
+    "description": "An application that generates acronyms for given phrases or words.",
+    "steps": ["Input a phrase or word from the user.", "Split the input into words.", "Extract the first letter of each word to create an acronym.", "Display the acronym to the user."],
+    "difficulty": "beginner",
+    "languages": ["Python", "Java", "Csharp"]
+  },
+  {
+    "id": 4,
+    "name": "Alarm Clock",
+    "description": "A simple alarm clock application that allows users to set alarms.",
+    "steps": ["Allow users to set alarms with specified times.", "Trigger alarms with notifications or sound.", "Allow users to snooze or dismiss alarms."],
+    "difficulty": "beginner",
+    "languages": ["Java", "Csharp", "Swift"]
+  },
+  {
+    "id": 5,
+    "name": "Email Slicer",
+    "description": "A program that extracts the username and domain from an email address.",
+    "steps": ["Input an email address from the user.", "Split the email address into username and domain.", "Display the extracted parts to the user."],
+    "difficulty": "beginner",
+    "languages": ["Python", "JavaScript", "Cplusplus"]
+  },
+  {
+    "id": 6,
+    "name": "Story Generator",
+    "description": "A tool that randomly generates short stories or creative writing prompts.",
+    "steps": ["Define a collection of story elements (characters, settings, events, etc.).", "Randomly select elements to create a story.", "Display the generated story to the user."],
+    "difficulty": "beginner",
+    "languages": ["Python", "JavaScript", "Java"]
+  },
+  {
+    "id": 7,
+    "name": "Generate Password",
+    "description": "A utility that creates strong and random passwords for users.",
+    "steps": ["Define a set of characters (uppercase, lowercase, numbers, symbols).", "Randomly select characters to create a password of the desired length.", "Display the generated password to the user."],
+    "difficulty": "beginner",
+    "languages": ["Python", "Csharp", "Ruby"]
+  },
+  {
+    "id": 8,
+    "name": "Play Rock, Paper, and Scissors",
+    "description": "A simple game that allows users to play the classic Rock, Paper, Scissors game.",
+    "steps": ["Prompt the player to choose rock, paper, or scissors.", "Generate a random choice for the computer.", "Determine the winner based on the choices.", "Display the result to the user."],
+    "difficulty": "beginner",
+    "languages": ["Python", "Java", "JavaScript"]
+  },
+  {
+    "id": 9,
+    "name": "Dice Roll Simulator",
+    "description": "A program that simulates rolling dice and displays the results.",
+    "steps": ["Allow users to specify the number of dice and sides.", "Simulate rolling the dice and sum the results.", "Display the total and individual roll results."],
+    "difficulty": "beginner",
+    "languages": ["Python", "Java", "Cplusplus"]
+  },
+  {
+    "id": 10,
+    "name": "QR Code Generator",
+    "description": "An application that generates QR codes for various data types (e.g., URLs, text).",
+    "steps": ["Input the data (URL, text) to encode in the QR code.", "Generate a QR code image based on the input data.", "Display the QR code to the user."],
+    "difficulty": "beginner",
+    "languages": ["Python", "Java", "Csharp"]
+  },
+  {
+    "id": 11,
+    "name": "Animal Quiz Game",
+    "description": "A quiz game that tests the player's knowledge of animals.",
+    "steps": ["Prepare a set of animal-related questions and answers.", "Prompt the player with questions and accept their answers.", "Score the player based on their correct answers."],
+    "difficulty": "beginner",
+    "languages": ["Python", "Java", "Cplusplus"]
+  },
+  {
+    "id": 12,
+    "name": "BMI Calculator",
+    "description": "A calculator that computes a person's Body Mass Index (BMI) based on height and weight.",
+    "steps": ["Input the user's height and weight.", "Calculate the BMI using the formula.", "Display the calculated BMI and its interpretation."],
+    "difficulty": "beginner",
+    "languages": ["Python", "Java", "Csharp"]
+  },
+  {
+    "id": 13,
+    "name": "Fahrenheit to Celsius Converter",
+    "description": "A simple temperature conversion tool that converts Fahrenheit to Celsius.",
+    "steps": ["Input the temperature in Fahrenheit.", "Convert the temperature to Celsius using the formula.", "Display the converted temperature in Celsius."],
+    "difficulty": "beginner",
+    "languages": ["Python", "Java", "Cplusplus"]
+  },
+  {
+    "id": 14,
+    "name": "Digital Clock GUI",
+    "description": "An advanced digital clock with a graphical user interface.",
+    "steps": ["Create a graphical user interface for the digital clock.", "Update the time display in real-time.", "Allow customization options for the clock appearance."],
+    "difficulty": "advanced",
+    "languages": ["Java", "Csharp", "Python"]
+  },
+  {
+    "id": 15,
+    "name": "Get Desktop Notifications",
+    "description": "An application that delivers desktop notifications for events or reminders.",
+    "steps": ["Define events or reminders that trigger notifications.", "Implement a notification system that displays messages on the desktop.", "Allow users to configure notification settings."],
+    "difficulty": "advanced",
+    "languages": ["Java", "Csharp", "Python"]
+  },
+  {
+    "id": 16,
+    "name": "Music Player GUI",
+    "description": "A graphical music player application that allows users to play and manage music.",
+    "steps": ["Create a graphical user interface for the music player.", "Implement music playback controls and playlist management.", "Support various audio formats and audio file organization."],
+    "difficulty": "advanced",
+    "languages": ["Java", "Csharp", "Python"]
+  },
+  {
+    "id": 17,
+    "name": "Spelling Correction",
+    "description": "An advanced spell-checking and correction tool for text.",
+    "steps": ["Implement a spell-checking algorithm to identify misspelled words.", "Suggest corrections for identified misspelled words.", "Allow users to accept or reject suggested corrections."],
+    "difficulty": "advanced",
+    "languages": ["Python", "Java", "Cplusplus"]
+  },
+  {
+    "id": 18,
+    "name": "Video to Audio Converter",
+    "description": "A tool that extracts audio from video files and converts them into audio formats.",
+    "steps": ["Input a video file for conversion.", "Extract the audio track from the video.", "Convert the audio to a specified format (e.g., MP3)."],
+    "difficulty": "advanced",
+    "languages": ["Python", "Java", "Cplusplus"]
+  },
+  {
+    "id": 19,
+    "name": "Tic Tac Toe GUI",
+    "description": "A graphical user interface for playing the classic game of Tic Tac Toe.",
+    "steps": ["Create a graphical board for Tic Tac Toe.", "Implement player moves and game logic.", "Determine the winner and handle game outcomes."],
+    "difficulty": "advanced",
+    "languages": ["Java", "Csharp", "Python"]
+  },
+  {
+    "id": 20,
+    "name": "Calculator GUI",
+    "description": "An advanced calculator application with a graphical user interface.",
+    "steps": ["Create a user-friendly interface with numerical buttons.", "Implement arithmetic operations and evaluate expressions.", "Support advanced features (e.g., scientific calculator functions)."],
+    "difficulty": "advanced",
+    "languages": ["Java", "Csharp", "Python"]
+  },
+  {
+    "id": 21,
+    "name": "YouTube Downloader",
+    "description": "An application that allows users to download videos from YouTube.",
+    "steps": ["Accept input from the user, such as the YouTube video URL.", "Download the video from YouTube using an appropriate library or API.", "Save the video to the user's device."],
+    "difficulty": "advanced",
+    "languages": ["Python", "Java", "Csharp"]
+  },
+  {
+    "id": 22,
+    "name": "URL Shortener",
+    "description": "A tool that shortens long URLs into more manageable and shareable links.",
+    "steps": ["Receive a long URL as input.", "Generate a unique, shortened URL for the input.", "Store the mapping between the short URL and the original URL.", "Redirect users from the short URL to the original URL."],
+    "difficulty": "advanced",
+    "languages": ["Python", "Java", "Csharp"]
+  }
+]
